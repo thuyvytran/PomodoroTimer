@@ -1,10 +1,28 @@
-Hello! 
-This is a basic Pomodoro Timer.
-Pomodoro Timer is a very popular time mangement method used by many students.
+# Pomodoro Timer
 
+A basic Pomodoro Timer website.
 
-How it works is there is a 25 minute interval divided up by breaks.
-I divided this one up by three section to make it a total of 75 minutes.
-The break is five minute long. 
+Updated: February 2021
 
-This is all pogrammed using Javascript, html and css. 
+# Detail
+
+---
+
+- There are three study interval with two small breaks
+- Each interval is 25 minutes
+- Each break is 5 minutes
+- The total time is 85 minutes or an hour and 25 minutes
+
+# User Interface
+
+---
+
+There will be three buttons that appear on the website. The first button will a play button to start the interval. The second button will be a pause button if an emergence arises and there is a need to pause the timer. The last one is a reset button to reset the timer.
+
+# Programming Language Used
+
+---
+
+- HTML
+- JavaScript
+- CSS
