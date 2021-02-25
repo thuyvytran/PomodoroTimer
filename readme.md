@@ -2,8 +2,6 @@
 
 A basic Pomodoro Timer website.
 
-Link: https://github.com/thuyvytran/PomodoroTimer/blob/main/index.html
-
 Updated: February 2021
 
 # Detail
