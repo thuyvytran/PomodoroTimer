@@ -17,6 +17,12 @@
     padding: 20px 32px;
     font-size: 16px;
 }
+
+#start:hover{
+    color: white;
+    background-color: #D358F7;
+}
+
 #pause{
     background-color: #DF013A;
     border: none;
@@ -24,8 +30,12 @@
     text-align: center;
     padding: 20px 32px;
     font-size: 16px;
-    
 
+}
+
+#pause:hover{
+    color: white;
+    background-color: #FA5858;
 }
 
 #reset{
@@ -38,3 +48,10 @@
     font-size: 16px;
 
 }
+
+#reset:hover{
+    color: white;
+    background-color: #00BFFF;
+}
+
+
