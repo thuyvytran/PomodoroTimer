@@ -8,3 +8,33 @@
     text-align:center;
     color: #086A87;
 }
+
+#start{
+    background-color: #8904B1;
+    border: none;
+    color: white;
+    text-align: center;
+    padding: 20px 32px;
+    font-size: 16px;
+}
+#pause{
+    background-color: #DF013A;
+    border: none;
+    color: white;
+    text-align: center;
+    padding: 20px 32px;
+    font-size: 16px;
+    
+
+}
+
+#reset{
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    text-align: center;
+    margin: 50;
+    padding: 20px 32px;
+    font-size: 16px;
+
+}
